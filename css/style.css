@@ -125,7 +125,7 @@ body{
 }
 .plogo:hover{
     transform: scale(1.5);
-     opacity: 0.9;
+     opacity: 0.8;
 }
 .details {
     display: flex;
